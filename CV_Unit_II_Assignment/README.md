@@ -1,6 +1,6 @@
 # Computer Vision Unit II Programming Assignment
 
-Name: <Mahesh Singh Sisodia>
+Name: Mahesh Singh Sisodia
 Enrollment Number: <2402309067>
 Class/Section: <BCA 5A>
 
