@@ -1,8 +1,8 @@
 # Computer Vision Unit II Programming Assignment
 
-Name: <Your Name>
-Enrollment Number: <Your Enrollment Number>
-Class/Section: <BCA 5A or BCA 5B>
+Name: <Mahesh Singh Sisodia>
+Enrollment Number: <2402309067>
+Class/Section: <BCA 5A>
 
 Programs Completed: 15/15
 
